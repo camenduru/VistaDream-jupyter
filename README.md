@@ -12,8 +12,10 @@
 https://github.com/WHU-USI3DV/VistaDream
 
 ### 📄 Paper
+https://arxiv.org/abs/2410.16892
 
 ### 🌐 Page
+https://vistadream-project-page.github.io/
 
 ### 🖼 Output
 
